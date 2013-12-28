@@ -1,0 +1,1 @@
+http://railstutorial.jp/ chapter 3
